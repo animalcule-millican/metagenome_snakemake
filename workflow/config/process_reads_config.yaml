@@ -1,0 +1,4 @@
+sample_directory: "/home/glbrc.org/millican/metagenome/lamps/data/reads/raw"
+output_directory: "/home/glbrc.org/millican/repos/metagenome_snakemake/output"
+working_directory: "/home/glbrc.org/millican/repos/metagenome_snakemake/workflow"
+rqcfilterdata: "/home/glbrc.org/millican/ref_db/RQCFilterData"

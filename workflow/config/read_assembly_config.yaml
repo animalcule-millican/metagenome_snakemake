@@ -1,0 +1,3 @@
+output_directory: "/home/glbrc.org/millican/repos/metagenome_snakemake/output"
+working_directory: "/home/glbrc.org/millican/repos/metagenome_snakemake/workflow"
+project_name: "meta-snek"

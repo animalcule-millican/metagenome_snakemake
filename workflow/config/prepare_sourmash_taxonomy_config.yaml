@@ -1,0 +1,5 @@
+output_directory: "/home/glbrc.org/millican/repos/metagenome_snakemake/workflow/references/sourmash_taxonomy"
+working_directory: "/home/glbrc.org/millican/repos/metagenome_snakemake/workflow"
+taxa: ["bacteria", "archaea", "fungi", "viral", "plant", "invertebrate", "protozoa"]
+database: ["refseq", "genbank"]
+ncbi_taxonomy: "/home/glbrc.org/millican/ref_db/taxdmp"

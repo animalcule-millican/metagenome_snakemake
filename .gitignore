@@ -1,0 +1,13 @@
+/map_snek.submit
+/map_snek.sh
+/meta_snake.sh
+/meta_snake.submit
+/move_files.py
+/read_map_snake.sh
+log/
+submit/
+data/
+.snakemake/
+workflow/log
+workflow/.snakemake
+/workflow/test_feat_count.sh

@@ -1,0 +1,8 @@
+sample_name: ["Ga0501031", "Ga0501032", "Ga0501033", "Ga0501034", "Ga0501035", "Ga0501036", "Ga0501037", "Ga0501038", "Ga0501039", "Ga0501040", "Ga0501041", "Ga0501042", "Ga0501043", "Ga0501044", "Ga0501045", "Ga0501046", "Ga0501047", "Ga0501048", "Ga0501049", "Ga0501050", "Ga0501051", "Ga0501052", "Ga0501053", "Ga0501054", "Ga0501056", "Ga0501057", "Ga0501058", "Ga0501059", "Ga0501061", "Ga0501064", "Ga0501065", "Ga0501066", "Ga0501067", "Ga0501068", "Ga0501069", "Ga0501070", "Ga0501071", "Ga0501072", "Ga0501073", "Ga0501074", "Ga0501075", "Ga0501076", "Ga0501077", "Ga0501078", "Ga0501079", "Ga0501080", "Ga0501081", "Ga0501082", "Ga0501083", "Ga0501084", "Ga0501085", "Ga0501088", "Ga0501089", "Ga0501090", "Ga0501091", "Ga0501092", "Ga0501093", "Ga0501094", "Ga0501095", "Ga0501097", "Ga0501098", "Ga0501099", "Ga0501100", "Ga0501101", "Ga0501102"]
+data_directory: "/home/glbrc.org/millican/repos/metagenome_snakemake/data"
+co_assembly: "/home/glbrc.org/millican/projects/TMP_transfer_data/ptmp/adina/millican/oil/data/assembly/rhizo/rhizo-coassembly.contigs.fna.gz"
+mag_directory: "/home/glbrc.org/millican/repos/metagenome_snakemake/data/bins"
+working_directory: "/home/glbrc.org/millican/repos/metagenome_snakemake/workflow"
+kmer: ['21', '31', '51']
+media: "/home/glbrc.org/millican/miniconda/miniconda/envs/gapseq/bin/dat/media/ALLmed.csv"
+gff: "/home/glbrc.org/millican/projects/TMP_transfer_data/ptmp/adina/millican/oil/data/annotation/rhizo/rhizo-coassembly-annotation-feature-counting.gff"
