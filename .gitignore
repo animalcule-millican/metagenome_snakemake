@@ -11,3 +11,4 @@ data/
 workflow/log
 workflow/.snakemake
 /workflow/test_feat_count.sh
+/draft-pipeline.sh

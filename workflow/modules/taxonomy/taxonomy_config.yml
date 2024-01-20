@@ -1,0 +1,6 @@
+output_directory: "/home/glbrc.org/millican/repos/metagenome_snakemake/output"
+working_directory: "/home/glbrc.org/millican/repos/metagenome_snakemake/workflow/modules/taxonomy"
+taxa: ["bacteria", "archaea", "viral", "plant", "fungi", "protozoa", "invertebrate"]
+databases: ["refseq", "genbank"]
+reference_directory: "/home/glbrc.org/millican/repos/metagenome_snakemake/references"
+kmer: ['21', '31', '51']

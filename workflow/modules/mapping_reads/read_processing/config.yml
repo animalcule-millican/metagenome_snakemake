@@ -1,0 +1,6 @@
+sample_directory: "/home/glbrc.org/millican/metagenome/lamps/data/reads/raw"
+output_directory: "/home/glbrc.org/millican/repos/metagenome_snakemake/output"
+working_directory: "/home/glbrc.org/millican/repos/metagenome_snakemake/workflow/modules/read_processing"
+rqcfilterdata: "/home/glbrc.org/millican/ref_db/RQCFilterData"
+tmpdir_pickel: "/home/glbrc.org/millican/repos/metagenome_snakemake/etc/adj-aml.pkl"
+root_tmpdir: "/home/glbrc.org/millican/TMPDIR"
